@@ -3,7 +3,7 @@ ocr_import_info:
   bdrc_scan_id: W2PD19997
   source: bdrc
   ocr_info:
-    timestamp: '2022-08-25T00:00:00Z'
+    timestamp: '2023-02-01T00:00:00Z'
   batch_id: batch-0001
   software_id: norbuketaka
   expected_default_language: bo
@@ -11,8 +11,8 @@ ocr_import_info:
 default_language: bo
 source: https://library.bdrc.io
 initial_creation_type: ocr
-imported: 2023-01-21 16:28:21.186269
-last_modified: 2022-08-25 00:00:00+00:00
+imported: 2024-09-12 14:12:56.437719
+last_modified: 2023-02-01 00:00:00+00:00
 parser: https://github.com/OpenPecha/Norbu-Keta-eText-import/blob/main/norbu_ketaka_parser.py
 source_metadata:
   id: http://purl.bdrc.io/resource/W2PD19997
